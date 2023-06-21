@@ -1,0 +1,22 @@
+*{
+
+  box-sizing: border-box;
+}
+
+.carousel img{
+  aspect-ratio: 16/9;
+}
+
+.tabelas{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.tabelas table{
+  max-width: 375px;
+  margin: 20px;
+}
+#root{
+  background-color: #212529;
+}
